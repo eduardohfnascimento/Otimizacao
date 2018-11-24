@@ -1,4 +1,4 @@
-def loadFile(graph, weights, kColor):
+def loadFile(graph, weights):
     fileObject = open("cmb/cmb01", "r")
     a, b, kColor = fileObject.readline().split()
     while (len(weights) < int(a)):
@@ -12,3 +12,4 @@ def loadFile(graph, weights, kColor):
         graph[int(x)].append(y)
         graph[int(y)].append(x)
     fileObject.close()
+    return kColor
