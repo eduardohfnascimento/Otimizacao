@@ -13,7 +13,7 @@ def initialSolution(graph, vertex, kColor):
                     continue
                 if solution[int(y)] in colors:
                     colors.remove(solution[int(y)])
-            if len(colors) == 0: solution[x] = -1#random.randint(0, kColor - 1)
+            if len(colors) == 0: solution[x] = -1
             else : solution[x] = random.choice(colors)
 
 ## Todos os vértices que um vértice específico está ligado      
