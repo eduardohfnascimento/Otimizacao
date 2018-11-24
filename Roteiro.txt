@@ -1,0 +1,4 @@
+ler arquivo e colocar em alguma estrutura de dados definida
+fazer solução inicial com algoritmo guloso simples
+Busca local a ser definida
+pertubação. Mudar 1 vértice randomico x vezes até melhorar situação
