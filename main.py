@@ -2,6 +2,6 @@ import fileLoader
 import ILS
 
 graph = {}
-weghts = []
-kColor = fileLoader.loadFile(graph, weghts)
-ILS.initialSolution(graph, len(weghts), int(kColor))
+weights = []
+kColor = fileLoader.loadFile(graph, weights)
+ILS.initialSolution(graph, len(weights), int(kColor), weights)
