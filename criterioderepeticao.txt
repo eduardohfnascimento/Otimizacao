@@ -1,0 +1,14 @@
+inicial 119217.26 final 103458.71 -> 10000 repetições
+inicial 122549.76 final 103018.73 -> 5000 reoetições
+inicial 107588.91 final 104488.7  -> 1000 repetições
+inicial 115895.61 final 104895.71 -> 500 repetições
+inicial 112400.66 final 105310.39 -> 100 repetições
+inicial 120763.10 final 106033.99 -> 50 repetições
+
+agora para porcentagem que será usada
+final 0.1 -> 103057.37
+final 0.2 -> 103197.37
+final 0.3 -> 103197.37
+final 0.4 -> 103197.37
+final 0.5 -> 103197.37
+final 0.6 -> 103197.37

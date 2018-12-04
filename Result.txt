@@ -1,0 +1,199 @@
+Todos os testes foram feitos com a pertubação em sem pretubação. Ou seja. Somente com busca local
+TESTE DE ITEARAÇÃO
+iteracoes 0
+tempo médio 2.3947925090789797
+saida media 117369.81599999999
+=========================
+iteracoes 5
+tempo médio 5.614643716812134
+saida media 110390.022
+=========================
+iteracoes 10
+tempo médio 3.4928072452545167
+saida media 105889.65800000001
+=========================
+iteracoes 15
+tempo médio 3.814785051345825
+saida media 105229.38600000001
+=========================
+iteracoes 20
+tempo médio 4.736575365066528
+saida media 103294.724
+=========================
+iteracoes 25
+tempo médio 4.0518862247467045
+saida media 103936.888
+=========================
+iteracoes 30
+tempo médio 4.94942421913147
+saida media 102222.51999999999
+=========================
+iteracoes 35
+tempo médio 8.284625625610351
+saida media 102367.93800000001
+=========================
+iteracoes 40
+tempo médio 5.179404544830322
+saida media 101830.202
+=========================
+iteracoes 45
+tempo médio 7.94813494682312
+saida media 101803.0
+=========================
+iteracoes 50
+tempo médio 8.55741639137268
+saida media 101756.89600000001
+=========================
+iteracoes 55
+tempo médio 5.3295186996459964
+saida media 101712.94600000001
+=========================
+iteracoes 60
+tempo médio 10.115013647079468
+saida media 101785.28
+=========================
+iteracoes 65
+tempo médio 3.773826169967651
+saida media 101867.126
+=========================
+iteracoes 70
+tempo médio 4.477178335189819
+saida media 101808.33399999999
+=========================
+iteracoes 75
+tempo médio 3.9651491165161135
+saida media 101811.01200000002
+=========================
+iteracoes 80
+tempo médio 6.989719247817993
+saida media 101843.844
+=========================
+iteracoes 85
+tempo médio 4.895041561126709
+saida media 101855.818
+=========================
+iteracoes 90
+tempo médio 7.899376487731933
+saida media 101835.302
+=========================
+iteracoes 95
+tempo médio 4.6150024890899655
+saida media 101880.042
+=========================
+iteracoes 100
+tempo médio 8.80414023399353
+saida media 101810.736
+=========================
+
+
+TESTE DE PERTUBACAO
+pertubacao 0
+tempo médio 4.1621650695800785
+saida media 101830.534
+=========================
+pertubacao 0.05
+tempo médio 3.535469913482666
+saida media 105876.1
+=========================
+pertubacao 0.1
+tempo médio 6.44469633102417
+saida media 104620.802
+=========================
+pertubacao 0.15000000000000002
+tempo médio 8.041915893554688
+saida media 104207.05799999999
+=========================
+pertubacao 0.2
+tempo médio 5.994153690338135
+saida media 105185.18000000001
+=========================
+pertubacao 0.25
+tempo médio 6.658729362487793
+saida media 105712.78199999998
+=========================
+pertubacao 0.3
+tempo médio 8.224154138565064
+saida media 106705.808
+=========================
+pertubacao 0.35
+tempo médio 3.8291725158691405
+saida media 105340.21600000001
+=========================
+pertubacao 0.39999999999999997
+tempo médio 7.613372898101806
+saida media 106775.348
+=========================
+pertubacao 0.44999999999999996
+tempo médio 4.8766035556793215
+saida media 106718.89000000001
+=========================
+pertubacao 0.49999999999999994
+tempo médio 4.967407178878784
+saida media 106739.08799999999
+=========================
+pertubacao 0.5499999999999999
+tempo médio 3.5409196853637694
+saida media 106628.31599999999
+=========================
+pertubacao 0.6
+tempo médio 3.7731332302093508
+saida media 106515.81000000001
+=========================
+pertubacao 0.65
+tempo médio 4.359080028533936
+saida media 107069.786
+=========================
+pertubacao 0.7000000000000001
+tempo médio 3.373188877105713
+saida media 107148.192
+=========================
+pertubacao 0.7500000000000001
+tempo médio 6.153079032897949
+saida media 106945.0
+=========================
+pertubacao 0.8000000000000002
+tempo médio 8.601246786117553
+saida media 106150.49399999999
+=========================
+pertubacao 0.8500000000000002
+tempo médio 8.531875276565552
+saida media 106840.482
+=========================
+pertubacao 0.9000000000000002
+tempo médio 4.065692281723022
+saida media 106292.28400000001
+=========================
+pertubacao 0.9500000000000003
+tempo médio 5.17654709815979
+saida media 107448.90800000001
+=========================
+
+RESULTADOS FINAIS
+arquivo cmb01
+tempo médio 2.511719751358032
+saida media 106713.33599999998
+=========================
+arquivo cmb02
+tempo médio 1.083101511001587
+saida media 260062.3
+=========================
+arquivo cmb05
+tempo médio 1.617984676361084
+saida media 722679.708
+=========================
+arquivo cmb08
+tempo médio 7.926256418228149
+saida media 643100.5819999999
+=========================
+arquivo cmb03
+tempo médio 47.509833574295044
+saida media 149111.424
+=========================
+arquivo cmb06
+tempo médio 16.664805507659914
+saida media 340016.49399999995
+=========================
+arquivo cmb07
+tempo médio 1261.0126630306245
+saida media 167374.006
+=========================

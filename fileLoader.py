@@ -1,5 +1,5 @@
-def loadFile(graph, weights):
-    fileObject = open("cmb/cmb01", "r")
+def loadFile(graph, weights, nameFile):
+    fileObject = open("cmb/"+nameFile, "r")
     a, b, kColor = fileObject.readline().split()
     while (len(weights) < int(a)):
         line = fileObject.readline().split()
